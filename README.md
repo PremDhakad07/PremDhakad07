@@ -47,9 +47,9 @@ Responsive Flutter UI clone projects for practice and learning.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PremDhakad07&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PremDhakad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PremDhakad07&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PremDhakad07&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -59,11 +59,11 @@ Responsive Flutter UI clone projects for practice and learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremDhakad07&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PremDhakad07&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PremDhakad07&theme=tokyonight" />
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
