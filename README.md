@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prem Dhakad</h1>
-<h3 align="center">Flutter Developer • Java Learner • Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer • React & Next.js Learner • Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Java+Learner;Open+Source+Contributor;AI+App+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%26+Next.js+Developer;Learning+Java;TypeScript+Learner;MongoDB+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -11,12 +11,13 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **Java, DSA & Backend Development**
-- 📱 Building apps using **Flutter & Firebase**
-- 🤖 Interested in **AI-powered applications**
-- 💻 Exploring **Open Source Contributions**
+- 🌱 Currently learning **Next.js, TypeScript & Backend Development**
+- 💻 Building modern web apps using **React.js & Next.js**
+- ⚡ Exploring **Full Stack Development**
+- 🛠️ Working with **MongoDB & JavaScript**
+- 🌍 Interested in **Open Source Contributions**
 - 🏆 Participating in **GSSoC & Hackathons**
-- ⚡ Fun fact: I love turning ideas into real apps
+- 🚀 Passionate about creating responsive and scalable web applications
 
 ---
 
@@ -24,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,cpp,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,nextjs,mongodb,nodejs,git,github,vscode" />
 
 </div>
 
@@ -32,14 +33,14 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AI Study Planner App
-AI-powered study planner made using Flutter & Firebase.
+### 🌐 Full Stack Web Applications
+Responsive and scalable web apps built using React.js, Next.js & MongoDB.
 
-### 📸 Smart Attendance System
-Face recognition attendance system using Python, OpenCV & Firebase.
+### 🎨 Modern UI Projects
+Clean and responsive frontend projects using HTML, CSS & JavaScript.
 
-### 🌐 UI Clone Projects
-Responsive Flutter UI clone projects for practice and learning.
+### ⚡ Open Source Contributions
+Contributing to beginner-friendly open source projects and improving real-world applications.
 
 ---
 
@@ -65,6 +66,8 @@ Responsive Flutter UI clone projects for practice and learning.
 
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -73,11 +76,11 @@ Responsive Flutter UI clone projects for practice and learning.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/prem-dhakad">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:dhakadprem2007@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -88,18 +91,9 @@ Responsive Flutter UI clone projects for practice and learning.
 ## 🎯 Current Goals
 
 ```css
+✔ Master React.js & Next.js
+✔ Learn Backend & APIs
 ✔ Improve DSA & Problem Solving
 ✔ Contribute to Open Source
-✔ Build Scalable Flutter Apps
-✔ Learn Backend Development
+✔ Build Scalable Full Stack Projects
 ✔ Crack Good Internships
-```
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
-
-
-</div>
