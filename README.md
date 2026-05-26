@@ -97,3 +97,9 @@ Contributing to beginner-friendly open source projects and improving real-world 
 ✔ Contribute to Open Source
 ✔ Build Scalable Full Stack Projects
 ✔ Crack Good Internships
+```
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+</div>
