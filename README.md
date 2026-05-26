@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm Prem Dhakad</h1>
-<h3 align="center">Full Stack Web Developer • React & Next.js Learner • Open Source Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Web Developer • React & Next.js Enthusiast • Open Source Contributor
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%26+Next.js+Developer;Learning+Java;TypeScript+Learner;MongoDB+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React.js+%26+Next.js+Developer;TypeScript+Learner;MongoDB+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🌱 Currently learning **Next.js, TypeScript & Backend Development**
-- 💻 Building modern web apps using **React.js & Next.js**
-- ⚡ Exploring **Full Stack Development**
-- 🛠️ Working with **MongoDB & JavaScript**
+- 🌱 Currently learning **React.js, Next.js, TypeScript & Backend**
+- 💻 Building modern and responsive **Full Stack Web Applications**
+- ⚡ Exploring **MongoDB, APIs & Scalable Web Apps**
 - 🌍 Interested in **Open Source Contributions**
 - 🏆 Participating in **GSSoC & Hackathons**
-- 🚀 Passionate about creating responsive and scalable web applications
+- 🎯 Focused on improving **DSA & Problem Solving**
+- 🚀 Passionate about turning ideas into real-world projects
+
+<br><br>
 
 ---
 
@@ -25,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,nextjs,mongodb,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,mongodb,git,github,vscode" />
 
 </div>
 
@@ -33,14 +42,14 @@
 
 ## 📌 Featured Projects
 
-### 🌐 Full Stack Web Applications
-Responsive and scalable web apps built using React.js, Next.js & MongoDB.
+### 🌐 Full Stack Web Apps
+Modern web applications built using **React.js, Next.js & MongoDB**.
 
-### 🎨 Modern UI Projects
-Clean and responsive frontend projects using HTML, CSS & JavaScript.
+### 🎨 Responsive UI Projects
+Frontend projects using **HTML, CSS & JavaScript** with clean UI design.
 
 ### ⚡ Open Source Contributions
-Contributing to beginner-friendly open source projects and improving real-world applications.
+Contributing to beginner-friendly repositories and improving real-world projects.
 
 ---
 
@@ -63,6 +72,16 @@ Contributing to beginner-friendly open source projects and improving real-world 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PremDhakad07&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PremDhakad07&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -92,14 +111,17 @@ Contributing to beginner-friendly open source projects and improving real-world 
 
 ```css
 ✔ Master React.js & Next.js
-✔ Learn Backend & APIs
+✔ Learn Backend Development
 ✔ Improve DSA & Problem Solving
-✔ Contribute to Open Source
 ✔ Build Scalable Full Stack Projects
+✔ Contribute to Open Source
 ✔ Crack Good Internships
 ```
+
 <div align="center">
 
 ### ✨ Thanks for visiting my profile ✨
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00C2FF&height=120&section=footer"/>
