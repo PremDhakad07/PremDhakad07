@@ -49,7 +49,7 @@ Modern web applications built using **React.js, Next.js & MongoDB**.
 Frontend projects using **HTML, CSS & JavaScript** with clean UI design.
 
 ### ⚡ Open Source Contributions
-Contributing to beginner-friendly repositories and improving real-world projects.
+**Contributing to beginner-friendly repositories and improving real-world projects.**
 
 ---
 
