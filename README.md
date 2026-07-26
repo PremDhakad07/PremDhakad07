@@ -120,7 +120,7 @@ Frontend projects using **HTML, CSS & JavaScript** with clean UI design.
 
 <div align="center">
 
-## ✨ Thanks for visiting my profile ✨
+### ✨ Thanks for visiting my profile ✨
 
 </div>
 
